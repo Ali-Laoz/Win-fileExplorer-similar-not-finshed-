@@ -1,0 +1,12 @@
+---------bugs---------
+
+
+#maincategory after adding new folder:
+*when clicking the folder to enter its makes error of index
+
+
+
+#subcategory after adding new folder:
+*when clicking the folder to enter prints: empty list subCategory.listboxSelectedItemId
+*and its not entring
+*after going to other folder and back it works 
